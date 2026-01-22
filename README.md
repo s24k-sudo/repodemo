@@ -1,4 +1,5 @@
 # repodemo
 my first git repo
 <br>
-author soham 
+author soham (my name)
+
